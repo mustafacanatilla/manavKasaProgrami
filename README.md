@@ -1,4 +1,4 @@
 # manavKasaProgrami
 Manav Kasa Programı
 
-www.patika.net
+www.patika.dev
