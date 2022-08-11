@@ -9,7 +9,7 @@ public class manavKasaProgrami {
         System.out.print("Armut Kaç Kilo? :");
         armut *= input.nextDouble();
 
-        System.out.print("Elmas Kaç Kilo? :");
+        System.out.print("Elma Kaç Kilo? :");
         elma *= input.nextDouble();
 
         System.out.print("Domates Kaç Kilo? :");
